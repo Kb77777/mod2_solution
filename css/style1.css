@@ -18,14 +18,14 @@
     margin-right: auto;
     margin-left:auto;
     font-family: Helvetica;
-    color: white;
+    color: black;
   }
   .chicken {
-    right: 40px;
-    float:right;
-    text-align: left;
+    position: absolute;
+    left: 30%;
     
     
+       
   }
   
   
